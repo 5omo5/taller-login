@@ -1,0 +1,7 @@
+{
+  "name": "taller-login",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
